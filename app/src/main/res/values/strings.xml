@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Homework</string>
+    <string name="toptext">Верхний текст</string>
+    <string name="bootomtext">Нижний текст</string>
+    <string name="buttontext">Волшебная кнопка</string>
+</resources>
